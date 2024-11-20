@@ -3,18 +3,55 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="ALL" />
   </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/src/leet_code/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1c581ba4-f445-4951-8203-f7e7203665a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1219.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/2331.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/786.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/861.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet_code/979.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../erlang/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/463.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rust.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rust.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code_wars/convert_number_to_reversed_array_of_digits.rs" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/convert_number_to_reversed_array_of_digits.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank/2d_array_ds.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/2d_array_ds.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank/apple_and_orange.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/apple_and_orange.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank/dynamic_array.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/dynamic_array.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank/number_line_jumps.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/number_line_jumps.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/1219.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1219.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/1249.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1249.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/1289.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1289.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/1544.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1544.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/1614.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1614.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/165.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/165.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/1700.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1700.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/1915.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1915.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/1992.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1992.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/200.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/200.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/205.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/205.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/2073.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2073.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/2370.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2370.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/2441.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2441.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/2487.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2487.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/26.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/26.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/27.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/27.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/2812.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2812.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/2816.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2816.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/2958.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2958.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/3075.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/3075.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/402.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/402.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/42.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/42.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/463.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2516.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/623.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/623.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/678.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/678.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/786.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/786.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/79.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/79.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/85.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/85.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/861.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/861.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/88.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/88.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/881.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/881.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/950.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/950.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/979.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/979.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/988.rs" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/988.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +98,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "trunk",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/projects/code-challenges/rust",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/j3rderer/projects/code-challenges/rust",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,7 +108,9 @@
     "nodejs_package_manager_path": "npm",
     "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
     "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.disableDetachedFileInspection//wsl.localhost/Ubuntu/home/j3rderer/projects/code-challenges/rust/src/leet_code/26.rs": "true",
     "org.rust.first.attach.projects": "true",
+    "org.rust.hideNoCargoProjectNotifications//wsl.localhost/Ubuntu/home/j3rderer/projects/code-challenges/rust/leet_code/463.rs": "true",
     "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/1289.rs": "true",
     "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/165.rs": "true",
     "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/1915.rs": "true",
@@ -90,15 +128,23 @@
     "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/861.rs": "true",
     "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/988.rs": "true",
     "org.rust.hideNoCargoProjectNotificationsD:/projects/code-challenges/rust/src/leet_code/979.rs": "true",
-    "settings.editor.selected.configurable": "language.rust",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Rust",
+    "typescript.add.unambiguous.imports.on.the.fly": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu\home\j3rderer\projects\code-challenges\rust\leet_code" />
+      <recent name="\\wsl.localhost\Ubuntu\home\j3rderer\projects\code-challenges\rust\leet_code\26" />
+      <recent name="\\wsl.localhost\Ubuntu\home\j3rderer\projects\code-challenges\rust" />
+    </key>
+  </component>
   <component name="RsExternalLinterProjectSettings">
     <option name="runOnTheFly" value="true" />
   </component>
   <component name="RustProjectSettings">
-    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="toolchainHomeDirectory" value="$PROJECT_DIR$/../../../.cargo/bin" />
   </component>
   <component name="RustfmtProjectSettings">
     <option name="channel" value="stable" />
@@ -119,6 +165,8 @@
       <workItem from="1713782262893" duration="62000" />
       <workItem from="1713782330206" duration="5000" />
       <workItem from="1715629013446" duration="78000" />
+      <workItem from="1732118548806" duration="136000" />
+      <workItem from="1732118691233" duration="1512000" />
     </task>
     <servers />
   </component>
@@ -129,5 +177,9 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
